@@ -1,4 +1,4 @@
-# [A simple drawing app - spaint](https://stelios333.github.io/spaint)
+# [A simple drawing app - Spaint](https://stelios333.github.io/spaint)
 
 Bored? Try this app. Draw anything you can imagine with our amazing colors and styles. 
 Fill the background with your favourite color, use some rainbow paint and then fill it with glitter!!  And all these while listening to your favourite mousic thanks to Stelios Music Player.
